@@ -36,16 +36,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 /**
  * @author Juergen Hoeller
- * @author Ken Krebs
+ * @author Ken KrebsD
  * @author Arjen Poutsma
  * @author Michael Isvy
- *//**
- * @author Juergen Hoeller
- * @author Ken Krebs
- * @author Arjen Poutsma
- * @author Michael Isvy
- */
-/**
+ *
  * @author Juergen Hoeller
  * @author Ken Krebs
  * @author Arjen Poutsma
